@@ -1946,10 +1946,10 @@ elseif text == "تحديث" then
 dofile("Basmah.lua")  
 send(msg.chat_id_, msg.id_, "🔂┇تم تحديث ملفات البوت")
 elseif text == 'تحديث السورس 🔂' then
-download_to_file('https://raw.githubusercontent.com/DevBasmahBot/Basmah/master/Basmah.lua','Basmah.lua') 
+download_to_file('https://raw.githubusercontent.com/Basmahbot/Basmah/master/Basmah.lua','Basmah.lua') 
 send(msg.chat_id_, msg.id_, "🔂┇تم تحديث السورس وتنزيل اخر تحديث للملفات")
 elseif text == 'تحديث السورس' then
-download_to_file('https://raw.githubusercontent.com/DevBasmahBot/Basmah/master/Basmah.lua','Basmah.lua') 
+download_to_file('https://raw.githubusercontent.com/Basmahbot/Basmah/master/Basmah.lua','Basmah.lua') 
 send(msg.chat_id_, msg.id_, "🔂┇تم تحديث السورس وتنزيل اخر تحديث للملفات")
 end
 end
