@@ -5743,12 +5743,7 @@ send(msg.chat_id_, msg.id_,[[
 
 💠┇[Channel Source ،](t.me/ju_gu)
 
-💭┇[Annotations Source](t.me/INFO_Basmah)
-
-💬┇[Communication Source](t.me/Cnstbot)
-
-━━━━━━━━━━━━━
-⚜┇[Developer Source !](t.me/Tahaj20)
+⚜┇[Developer Source !](t.me/i3mrz)
 ]]) 
 elseif text == 'الاوامر' and Admin(msg) then
 send(msg.chat_id_, msg.id_,[[*
